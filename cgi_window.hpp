@@ -78,8 +78,9 @@ namespace cgi
         bool first_log = true;
 
         bool resized = false;
+        public:
         cgi_window_struct details;
-
+        private:
         // cgi::window * parent_window=nullptr;
 
         /// @brief functions
