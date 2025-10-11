@@ -8,6 +8,8 @@
 
 **CGI_PROJECT2082** is a lightweight C++ graphics engine designed for creating interactive graphical applications on Windows. Built from the ground up to teach graphics programming fundamentals, it provides direct pixel manipulation, window management, and input handling without heavy dependencies or complex abstractions.
 
+**Note**:The author(me) was somehow tired of learning the new graphics api just for a single window on my screen,so i made this for others to get started with almost no boilerplate and minimum overhead.See main.cpp as an example to get Started:
+
 Perfect for learning graphics programming, building small games, or prototyping visual applications.
 
 ---
